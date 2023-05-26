@@ -1,0 +1,11 @@
+ 
+summary::-webkit-details-marker {
+display: none;
+color: firebrick;
+}
+
+ 
+
+p {
+  color: navajowhite;
+}
